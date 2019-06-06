@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "178006400635",
+    "firebase_url": "https://tender-management-979ba.firebaseio.com",
+    "project_id": "tender-management-979ba",
+    "storage_bucket": "tender-management-979ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178006400635:android:e3e930cfd3c69c50",
+        "android_client_info": {
+          "package_name": "com.ajay.tender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178006400635-f041ik5rhsi5ktspkucol2d3j9fk43v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTSfH7pyH_oo2YUGUMFZAHzIaw69yFqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178006400635-f041ik5rhsi5ktspkucol2d3j9fk43v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
